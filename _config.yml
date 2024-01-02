@@ -4,6 +4,6 @@ kramdown:
   math_engine: mathjax
 
 mathjax: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-mathjax
