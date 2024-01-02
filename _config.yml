@@ -3,3 +3,4 @@ kramdown:
   math_engine: mathjax
 
 mathjax: true
+theme: jekyll-theme-architect
