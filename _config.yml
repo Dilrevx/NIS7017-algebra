@@ -1,6 +1,7 @@
+markdown: kramdown
 kramdown:
   input: GFM
-  math_engie: mathjax
+  math_engine: mathjax
 
 mathjax: true
 theme: jekyll-theme-architect
